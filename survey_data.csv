@@ -1,0 +1,41 @@
+Customer ID,Name,Phone Number,Course Title,Mentor Satisfaction Score,Learning Satisfaction Score,Reason
+1,John Doe,555-555-5555,Introduction to Programming,9,8,Great course!
+2,Jane Smith,555-555-5556,Data Science Fundamentals,7,9,The mentor was not very helpful.
+3,Michael Johnson,555-555-5557,Machine Learning Basics,8,7,Enjoyed the course content.
+4,Susan Williams,555-555-5558,Web Development 101,9,10,Highly satisfied with the mentor's support.
+5,Robert Brown,555-555-5559,Graphic Design Principles,6,8,It was okay but could be better.
+6,Lisa Davis,555-555-5560,Introduction to Programming,7,6,Good course overall.
+7,William Miller,555-555-5561,Data Science Fundamentals,8,9,Excellent mentorship.
+8,Patricia Wilson,555-555-5562,Machine Learning Basics,10,10,Outstanding experience!
+9,James Taylor,555-555-5563,Web Development 101,9,7,The mentor was not very responsive.
+10,Elizabeth Lee,555-555-5564,Graphic Design Principles,5,5,Not satisfied with the mentor.
+1,John Doe,555-555-5555,Introduction to Programming,9,8,Great course!
+2,Jane Smith,555-555-5556,Data Science Fundamentals,7,9,The mentor was not very helpful.
+3,Michael Johnson,555-555-5557,Machine Learning Basics,8,7,Enjoyed the course content.
+4,Susan Williams,555-555-5558,Web Development 101,9,10,Highly satisfied with the mentor's support.
+5,Robert Brown,555-555-5559,Graphic Design Principles,6,8,It was okay but could be better.
+6,Lisa Davis,555-555-5560,Introduction to Programming,7,6,Good course overall.
+7,William Miller,555-555-5561,Data Science Fundamentals,8,9,Excellent mentorship.
+8,Patricia Wilson,555-555-5562,Machine Learning Basics,10,10,Outstanding experience!
+9,James Taylor,555-555-5563,Web Development 101,9,7,The mentor was not very responsive.
+10,Elizabeth Lee,555-555-5564,Graphic Design Principles,5,5,Not satisfied with the mentor.
+11,David White,555-555-5565,Introduction to Programming,7,8,-
+12,Mary Hall,555-555-5566,Data Science Fundamentals,8,9,Satisfied with the course overall.
+13,Christopher Anderson,555-555-5567,Machine Learning Basics,6,6,-
+14,Linda Martin,555-555-5568,Web Development 101,9,8,The mentor was knowledgeable and helpful.
+15,Joseph Garcia,555-555-5569,Graphic Design Principles,5,7,-
+16,Sarah Martinez,555-555-5570,Introduction to Programming,9,10,Great learning experience.
+17,Thomas Robinson,555-555-5571,Data Science Fundamentals,7,6,Not satisfied with the mentor's guidance.
+18,Deborah Clark,555-555-5572,Machine Learning Basics,8,9,I enjoyed the course content.
+19,Charles Lewis,555-555-5573,Web Development 101,10,8,The mentor was excellent.
+20,Donna Rodriguez,555-555-5574,Graphic Design Principles,7,7,-
+21,Paul Young,555-555-5575,Introduction to Programming,6,6,-
+22,Karen Allen,555-555-5576,Data Science Fundamentals,8,9,-
+23,Mark Hall,555-555-5577,Machine Learning Basics,9,10,Highly satisfied with the course.
+24,Laura Turner,555-555-5578,Web Development 101,7,5,-
+25,Robert Harris,555-555-5579,Graphic Design Principles,6,7,-
+26,Cynthia Scott,555-555-5580,Introduction to Programming,8,8,Satisfied with the course content.
+27,William King,555-555-5581,Data Science Fundamentals,10,9,-
+28,Margaret Martinez,555-555-5582,Machine Learning Basics,9,8,-
+29,Michael Gonzalez,555-555-5583,Web Development 101,7,6,Course content was lacking depth.
+30,Barbara Rodriguez,555-555-5584,Graphic Design Principles,5,7,Mentorship could be better. 
